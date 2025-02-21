@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/pexels-guimaraesm-3648269-2-.jpg"
+logo = "/media/pexels-guimaraesm-3648269-2-.jpg"
+image = "/media/pexels-guimaraesm-3648269-2-.jpg"
 color = "#5a4ae3"
 +++
