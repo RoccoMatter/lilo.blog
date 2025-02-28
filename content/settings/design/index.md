@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/pexels-anil-sharma-2149101452-30902338-1-.jpg"
-logo = "/media/pexels-anil-sharma-2149101452-30902338-1-.jpg"
-image = "/media/pexels-anil-sharma-2149101452-30902338-1-.jpg"
+icon = "/media/4k-ultra-hd-background-lake-sunset-sky-dusk-colorful-dark-tr.webp"
+logo = "/media/4k-ultra-hd-background-lake-sunset-sky-dusk-colorful-dark-tr.webp"
+image = "/media/4k-ultra-hd-background-lake-sunset-sky-dusk-colorful-dark-tr.webp"
 color = "#5a4ae3"
 +++
