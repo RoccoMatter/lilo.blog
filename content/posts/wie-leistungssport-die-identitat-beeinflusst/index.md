@@ -6,7 +6,7 @@ pinned = false
 tags = ["Interview", "Boxen", "Leistungssport"]
 image = "whatsapp-bild-2025-02-28-um-14.29.52_91e0138a.jpg"
 +++
-![]()
+
 
 "Ich bin allgemein durch den Sport viel zielstrebiger geworden, deshalb würde ich sagen, ja es hat sich verändert, aber auf eine positive Weise." Raul Friedli
 
