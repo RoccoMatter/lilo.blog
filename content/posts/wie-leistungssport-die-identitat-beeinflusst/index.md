@@ -65,3 +65,5 @@ Der Leistungssport hat mir bestimmt geholfen, mich weiterzuentwickeln. Ich war f
 Ich denke, körperlich bin ich mittlerweile ziemlich fit. Auch keine grösseren Probleme. Meine Schulter spürt sich noch ein wenig. Was mir etwas auf die Psyche geht, ist, dass meine letzten zwei Sparrings eher schwach waren. Jedoch muss das jetzt in dieser Woche verbessert werden. Und nachher sieht das perfekt aus, um den nächsten Kampf zu gewinnen.
 
 ![Raul Friedlis offizielles Boxlizenz Foto (2018)](whatsapp-bild-2025-02-28-um-10.48.00_9b2125e2.jpg)
+
+![Raul Friedli (2025)](whatsapp-bild-2025-02-28-um-14.29.52_91e0138a.jpg)
