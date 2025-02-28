@@ -6,6 +6,8 @@ pinned = false
 tags = ["Interview", "Boxen", "Leistungssport"]
 image = "whatsapp-bild-2025-02-28-um-14.29.52_91e0138a.jpg"
 +++
+![]()
+
 "Ich bin allgemein durch den Sport viel zielstrebiger geworden, deshalb würde ich sagen, ja es hat sich verändert, aber auf eine positive Weise." Raul Friedli
 
 {{<box>}} Raul Friedli wurde 13.09.2002 in Bern geboren und wuchs im quartier Tiefenau auf im Jahre 2016 fing er an zu Boxen und zwei Jahre darauf meldete er sich für seine lizenz an und fing an im olympischen Boxen Kämpfe zu bestreiten. {{</box>}}
@@ -62,3 +64,4 @@ Der Leistungssport hat mir bestimmt geholfen, mich weiterzuentwickeln. Ich war f
 
 Ich denke, körperlich bin ich mittlerweile ziemlich fit. Auch keine grösseren Probleme. Meine Schulter spürt sich noch ein wenig. Was mir etwas auf die Psyche geht, ist, dass meine letzten zwei Sparrings eher schwach waren. Jedoch muss das jetzt in dieser Woche verbessert werden. Und nachher sieht das perfekt aus, um den nächsten Kampf zu gewinnen.
 
+![Raul Friedlis offizielles Boxlizenz Foto (2018)](whatsapp-bild-2025-02-28-um-10.48.00_9b2125e2.jpg)
