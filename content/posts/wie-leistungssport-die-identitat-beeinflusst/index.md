@@ -1,14 +1,14 @@
 +++
 title = "Wie Leistungssport die Identität beeinflusst"
 date = "2025-02-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Interview", "Boxen", "Leistungssport"]
 image = "whatsapp-bild-2025-02-28-um-14.29.52_91e0138a.jpg"
 +++
 "Ich bin allgemein durch den Sport viel zielstrebiger geworden. Ja es hat mich verändert, aber auf eine positive Weise." Raul Friedli
 
-{{<box>}} Raul Friedli wurde 13.09.2002 in Bern geboren und wuchs im Quartier Tiefenau auf. Im Jahre 2016 fing er an zu Boxen und zwei Jahre darauf meldete er sich für seine erste Lizenz an und fing an im olympischen Boxen Kämpfe zu bestreiten.  {{</box>}}
+{{<box>}} Raul Friedli wurde 13.09.2002 in Bern geboren und wuchs im Quartier Tiefenau auf. Im Jahre 2016 fing er an zu Boxen und zwei Jahre darauf meldete er sich für seine erste Lizenz an und fing an im Olympischen Boxen Kämpfe zu bestreiten.  {{</box>}}
 
 **Rocco: Wie bist du zum Leistungssport gekommen und was war damals deine Motivation?**
 
